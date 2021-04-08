@@ -1,0 +1,84 @@
+body {
+  font-family: "Times New Roman";
+    background: #c9decf; 
+    font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
+}
+img {
+  width: 50px;
+  height: 30px;
+  padding: 20px 20px 30px 30px;
+}
+li {
+  list-style: none;
+  float: left;
+  padding: 33px 20px; 
+}
+.header {
+  background:#cb8a90;
+  color: #fff;
+  height: 90px;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px; 
+}
+.header-list li {
+  float: right;
+}
+.main {
+  background-color:lightblue;
+  height: 600px;
+  width: 100%;
+  height: 100%;
+ 
+}
+.copy-container {
+  width: 960px; margin: 0 auto;
+}
+.copy-container h1 {
+  text-align: center;
+  padding-top: 10px;
+    font-size: 35px;
+}
+.copy-container h2 {
+  text-align: center;
+  font-size: 25px;
+}
+.contents {
+  margin-right: 20px;
+}
+.section-title{
+  font-size: 20px;  
+}
+.section-title h2 {
+  float: left;
+  margin: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family:Verdana;
+}
+.contents-item p {
+  font-size: 20px;
+}
+.footer {
+  height: 100px;
+  background-color: burlywood;
+}
+.footer-logo {
+  text-align: center;
+}
+.footer-list{
+  text-align: center;
+}
+.icon {
+text-align: center;
+}
+.icon {
+  position: relative;
+  top: 5px;
+  left: 5px;
+}
+.contact-form h2 {
+  text-align: center;
+}
